@@ -1,0 +1,22 @@
+body{
+    color: rgb(3, 4, 4);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.custom1{
+    background-color: beige;
+}
+
+.intro{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.paddingSpace{
+    padding-bottom: 20px;
+}

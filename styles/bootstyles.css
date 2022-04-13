@@ -1,0 +1,17 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.Tableft{
+    padding: left 30px;
+    padding:right 30px;
+}
+
+.head{
+    padding: 50px;
+    color:aqua
+}
+
+.footer{
+    padding: 50px;
+    color:black
+}
