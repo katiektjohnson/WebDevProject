@@ -1,17 +1,42 @@
 body{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-}
-.Tableft{
-    padding: left 30px;
-    padding:right 30px;
+    color:white;
+    font-family:var(--bs-body-font-family);
+    padding: 10px;
 }
 
-.head{
-    padding: 50px;
-    color:aqua
+.Tableft{
+    padding: left 50px;
+    padding:right 50px;
+}
+
+.custom1{
+    background-color:darksalmon;
+}
+
+.header{
+    padding: 10px;
+    color:white;
+    resize: both;
 }
 
 .footer{
     padding: 50px;
-    color:black
+    color:black;
+    resize: both;
+}
+
+a{
+    color:black;
+}
+
+a:visited{
+    color:white;
+}
+
+a:hover{
+    color:black;
+}
+
+.custom2{
+    resize: both;
 }
